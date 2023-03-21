@@ -2,10 +2,10 @@
 ## *IT-sourcer*
 ***
 ### **Contacts**
-**Email:** grishchenko@le-onid.ru
-**Phone**: +79290219771
-**Telegram:** Tovarisch_Le
-**[Линкедин:]**(www.linkedin.com/in/tovarischIe/)
+**Email:** grishchenko@le-onid.ru  
+**Phone**: +79290219771  
+**Telegram:** Tovarisch_Le  
+**[LinkedIn:](www.linkedin.com/in/tovarischIe/)**  
 
 ***
 ### About me
