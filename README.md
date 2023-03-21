@@ -1,1 +1,1 @@
-https://citizenLe.github.io/rsschool-cv/cv
+https://citizenLe.github.io/rsschool-cv/
